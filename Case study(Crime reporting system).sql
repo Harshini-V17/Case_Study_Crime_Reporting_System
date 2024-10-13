@@ -190,22 +190,4 @@ VALUES
 (5, 5, 5, '2024-01-13', 'Officer Moore is investigating a credit card fraud case with numerous unauthorized transactions linked to possible identity theft.', 'Pending'),
 (6, 6, 6, '2024-01-14', 'Officer Taylor drafted a report on a mugging incident in an alleyway, where the victim was robbed at knifepoint, and the suspect escaped.', 'Draft'),
 (7, 7, 7, '2024-01-15', 'Officer Jordan is handling a cybercrime case involving a phishing attack, with multiple victims receiving fraudulent emails requesting sensitive information.', 'Pending'),
-(8, 8, 8, '2024-01-16', 'Officer Lee finalized the report on the kidnapping case, detailing the child’s last known whereabouts and witness testimonies.', 'Finalized');
-
-
-
-SELECT * FROM Incidents;
-
-SELECT * FROM Cases;
-
-SELECT * FROM Victims;
-
-SELECT * FROM Suspects;
-
-SELECT * FROM LawEnforcementAgency;
-
-SELECT * FROM Officers;
-
-SELECT * FROM Evidence;
-
-SELECT * FROM Reports;
+(8, 8, 8, '2024-01-16', 'Officer Lee finalized the report on the kidnapping case, detailing the childÂ’s last known whereabouts and witness testimonies.', 'Finalized');
